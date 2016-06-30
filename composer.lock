@@ -712,7 +712,7 @@
                 }
             ],
             "description": "Smarty - the compiling PHP template engine",
-            "homepage": "http://www.smarty.net",
+            "homepage": "https://www.smarty.net",
             "keywords": [
                 "templating"
             ],
